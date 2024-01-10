@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Happy Places App</string>
+    <string name="add_places_activity_title">Add Happy Places</string>
+    <string name="add_places_title_label">Title</string>
+    <string name="add_places_date_label">Date</string>
+    <string name="add_places_description_label">Description</string>
+    <string name="add_places_location_label">Location</string>
+    <string name="add_places_text_view_label">Add Image</string>
+    <string name="add_places_save_button_label">Save</string>
+    <string name="update_detail_button_label">Update</string>
+    <string name="happy_place_detail_save_button_label">Save</string>
+    <string name="swipe_right_label">Delete</string>
+</resources>

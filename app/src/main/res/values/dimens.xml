@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="add_places_content_padding">16dp</dimen>
+    <dimen name="add_places_til_margin">8dp</dimen>
+    <dimen name="add_places_horizontal_ll_margin">16dp</dimen>
+    <dimen name="add_places_save_button_margin">16dp</dimen>
+    <dimen name="update_photo_alert_title">30dp</dimen>
+    <dimen name="update_photo_alert_title_margin">16dp</dimen>
+    <dimen name="happy_place_detail_save_button_margin_vertical">16dp</dimen>
+</resources>
